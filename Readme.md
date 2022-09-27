@@ -10,6 +10,7 @@
 ./src-ig/features/solid-21-07-2022.js(244)
 ./src-ig/features/suspense-20-07-2022.js(12)
 ./src-ig/features(2048)
+
 ./src-ig/hello/hello.test.js(81)
 ./src-ig/hello(81)
 ./src-ig/redux-th/connect.js(25)
